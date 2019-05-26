@@ -2,10 +2,11 @@
 title: Five Minute Projections - the Wisdom of Crowds at Work!
 date: 2019-02-18
 category: Projections
+excerpt: "Alternative title: How I Once Beat Industry Professionals in a Projections Contest With ***~Zero Research***"
 ---
 [*alternative title: How I Once Beat Industry Professionals in a Projections Contest With* ***~Zero Research***]
 
-![Leader of the PAC logo](/assets/images/pac.jpg)
+![Leader of the PAC logo](/assets/images/pac.jpg){: .align-center}
 
 In August 2018 [Justin Freeman](http://www.twitter.com/JustinFreeman18) ran an open projections contest called Leader of the PAC, attracting amazing fantasy professionals including some personal idols like Mike Clay, Anthony Amico, and Peter Howard. Tempted by the thought of putting my projections to the test, I also entered ... and finished **9th out of 31** - ahead of all three of them!  This post is an accounting of exactly how I came up with the projections - the method may surprise you! (shameless Buzzfeed moment :smirk:)
 
@@ -24,7 +25,7 @@ Despite this being an open contest against fantasy professionals, it doesn't sur
 
 If you're doing the full dive into these factors, you might end up with a detailed chart a lot like Mike Clay's fantastic #clayprojections.
 
-![Mike Clay Projections example](https://pbs.twimg.com/media/Dc2a4oLWAAAxEb9.jpg)
+![Mike Clay Projections example](https://pbs.twimg.com/media/Dc2a4oLWAAAxEb9.jpg){: .align-center}
 
 **I have a secret - I did absolutely no team or player research when I made these projections!** Instead, I simply combined two things: the freshest possible FantasyPros redraft ranks I could manage to get my hands on, and a database I'd made of historical player PPR points-per-game production.
 
@@ -32,15 +33,15 @@ If you're doing the full dive into these factors, you might end up with a detail
 
 1) I downloaded a database of recent player fantasy seasons and drilled it down to just the data I wanted: 2013-2017 PPR points-per-game for each position. It looked a bit like this:
 
-![RawData](/assets/images/projections1.PNG)
+![RawData](/assets/images/projections1.PNG){: .align-center}
 
 2) From there, I ranked each season by PPG for each position and averaged that rank across the five years of data.
 
-![CleanedUp](/assets/images/projections2.PNG)
+![CleanedUp](/assets/images/projections2.PNG){: .align-center}
 
 3) I interpolated the averages so that I could have a number for each decimal point - and that was it, as far as data-prep goes!
 
-![Interpolated](/assets/images/projections3.PNG)
+![Interpolated](/assets/images/projections3.PNG){: .align-center}
 
 My actual projections workflow then looked like this: 1) Wait for the very last possible day to submit projections. 2) Scrape the FantasyPros ranks. 3) Match the ECR average to the corresponding spot on the table. 4) Copy that number to the submission sheet. No agonizing, no thinking, no actual analysis - just plug and play.
 
@@ -48,7 +49,7 @@ My actual projections workflow then looked like this: 1) Wait for the very last 
 
 Evidently it works very well!
 
-![Results](/assets/images/projections4.png)
+![Results](/assets/images/projections4.png){: .align-center}
 
 I'm chuffed that it placed in the top third - it's an incredible validation that simple methods can get you 80% of the way there. **Am I ready to trumpet that Clay, Amico, and Howard are wasting their time  and that this is the best thing since ~~sliced bread~~ Zero RB? The answer is most definitely a NO!**
 
@@ -67,7 +68,7 @@ As far as I can tell, FantasyPros is the closest we can get to having a "wise cr
 
 Comparatively, DLF Mock ADP is a great resource - but I have some qualms about relying on its objectivity. because it samples a smaller group of people who rely on similar knowledge-bases (i.e. are followers of DLF on Twitter). This reduces the diversity and independence of the crowd - so the overall "wisdom" (as defined by Surowiecki) is reduced. That's not to say it doesn't have its uses - I think it's a great barometer over a period of time - but it's not as good a summary of "true" value as a more neutrally selected set of opinions.
 
-## What does this mean for me?
+## What does this mean for you?
 
 Dynasty (and fantasy football in general) is about finding your niche.
 

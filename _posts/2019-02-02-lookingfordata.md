@@ -2,6 +2,7 @@
 title: Learning Where To Look For NFL Data
 date: 2019-02-02
 category: Data
+excerpt: "A quick dive into using nflscrapR in PowerQuery to find specific NFL datasets!"
 ---
 Yesterday, I stumbled across [a Reddit post ](https://www.reddit.com/r/DynastyFF/comments/am6rc2/a_big_fat_unwieldy_table_of_2018_rb_stats_that_i/) in which u/Sow_Crates compiled some interesting statistics (fantasy points, targets, receptions, carries, TDs, touches, and opportunities) for a small sample of RBs. While the data on the surface was interesting (e.g. despite Christian McCaffrey's notoriously high snap share, Ezekiel Elliott had a higher number of opportunities per game), I was piqued by the comments Sow_Crates made about the difficulty of the data collection process:
 
