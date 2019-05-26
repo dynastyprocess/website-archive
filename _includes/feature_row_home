@@ -1,12 +1,12 @@
 {% if include.id %}
-  {% assign feature_row = page[include.id] %}
+  {% assign feature_row_home_ = page[include.id] %}
 {% else %}
-  {% assign feature_row = page.feature_row %}
+  {% assign feature_row_home = page.feature_row_home %}
 {% endif %}
 
 <div class="feature__wrapper">
 
-  {% for f in feature_row %}
+  {% for f in feature_row_home %}
 
     {% if f.url contains "://" %}
       {% capture f_url %}{{ f.url }}{% endcapture %}
@@ -18,12 +18,12 @@
       <div class="archive__item">
         {% if f.image_path %}
           <div class="archive__item-teaser">
-            <img src=
+            <a href="{{ f_url }}"><img src=
               {% if f.image_path contains "://" %}
                 "{{ f.image_path }}"
               {% else %}
                 "{{ f.image_path | relative_url }}"
-              {% endif %}
+              {% endif %}</a>
             alt="{% if f.alt %}{{ f.alt }}{% endif %}">
             {% if f.image_caption %}
               <span class="archive__item-caption">{{ f.image_caption | markdownify | remove: "<p>" | remove: "</p>" }}</span>
@@ -33,17 +33,13 @@
 
         <div class="archive__item-body">
           {% if f.title %}
-            <h2 class="archive__item-title">{{ f.title }}</h2>
+            <h2 class="archive__item-title"><a href="{{ f_url }}">{{ f.title }}</a></h2>
           {% endif %}
 
           {% if f.excerpt %}
             <div class="archive__item-excerpt">
-              {{ f.excerpt | markdownify }}
+              <a href="{{ f_url }}">{{ f.excerpt | markdownify }}</a>
             </div>
-          {% endif %}
-
-          {% if f.url %}
-            <p><a href="{{ f_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[site.locale].more_label | default: "" }}</a></p>
           {% endif %}
         </div>
       </div>

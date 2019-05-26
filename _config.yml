@@ -106,21 +106,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "Tan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Tan Ho"
+  avatar           : "/assets/images/profile.png"
+  bio              : "DynastyFF | excel nerd | rowing fanatic"
+  location         :
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url: mailto:tan@tanho.ca
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/_TanHo"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -134,18 +134,18 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "@_TanHo"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
+      url: "https://twitter.com/_TanHo"
+    - label: "@JoeSydlowskiFF"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/JoeSydlowskiFF"
+    - label: "Datasets and Workbooks"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
+      url: "https://github.com/tanho63/dynastyprocess"
+    - label: "Apps"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/joesydlowski/dynastyprocessapps"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
@@ -288,8 +288,9 @@ defaults:
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: false
       share: true
-      related: true
+      related: false

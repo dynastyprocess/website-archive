@@ -1,4 +1,35 @@
 ---
-layout: home
-author_profile: true
+layout: splash
+classes:
+  - landing
+author_profile: false
+header:
+  overlay_color: "#000"
+  overlay_filter: "0"
+  overlay_image: /assets/images/header.png
+excerpt: "Finding method in the madness of DynastyFF"
+feature_row:
+  - url: /apps
+    image_path: https://i.imgur.com/UXBWknw.png
+    alt: "Apps"
+    title: "Apps"
+    excerpt: "Web-based apps for easy access to things like our [trade calculator](https://apps.dynastyprocess.com/calculator)!"
+    btn_label: "Go to Apps"
+    btn_class: "btn--primary"
+  - url: /tools
+    image_path: https://i.imgur.com/XRghC10.png
+    alt: "Tools"
+    title: "Tools"
+    excerpt: "Excel workbooks, Google Sheets, and other resources."
+    btn_label: "Download"
+    btn_class: "btn--primary"
+  - url: /writing
+    image_path: https://i.imgur.com/tDP4DJe.png
+    alt: "Writing"
+    title: "Writing"
+    excerpt: "Thoughts on DynastyFF, data, strategy, and more."
+    btn_label: "Read"
+    btn_class: "btn--primary"
 ---
+
+{% include feature_row %}
