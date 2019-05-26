@@ -1,21 +1,26 @@
 ---
 title: Database Browser
-link: https://apps.dynastyprocess.com/calculator
+classes: wide
 header:
   teaser: https://i.imgur.com/wEswsql.png
 excerpt: "The DynastyProcess database is designed to aggregate the wide variety of information that dynasty owners should have at their fingertips!"
+feature_row:
+  - url: https://apps.dynastyprocess.com/database
+    image_path: https://i.imgur.com/wEswsql.png
+    Title: "Link"
+    alt: "Calculator"
+    excerpt: "The DynastyProcess database is designed to aggregate the wide variety of information that dynasty owners should have at their fingertips!"
+    btn_label: "Try it now!"
+    btn_class: "btn--primary"
+permalink: /database
 ---
-## Download
+{% include feature_row type="left" %}
 
-[Web App](http://apps.dynastyprocess.com/database)
+## Other Access:
 
 [CSV format](https://github.com/tanho63/dynastyprocess/blob/master/files/database.csv) > can be linked to by any data import tool (make sure you link to the [raw version](https://raw.githubusercontent.com/tanho63/dynastyprocess/master/files/database.csv)!)
 
 [Excel workbook format](https://github.com/tanho63/dynastyprocess/blob/master/files/workbooks/database-excel-macro.xlsm) > has all of the API connections, so you can refresh the data for yourself if you're feeling impatient!
-
-## About
-
-There are a lot of fantasy statistical databases available now, but very few (if any) are tailored to DynastyFF. This database is an attempt to aggregate the wide variety of information dynasty owners should have easy access to.
 
 #### Already Connected
 - FantasyPros ECR for dynasty and redraft
