@@ -3,7 +3,7 @@ layout: single
 classes: wide
 author_profile: false
 title: Apps
-permalink: /apps
+permalink: /appsa
 ---
 *Make a grid layout page for this*
 
