@@ -8,8 +8,8 @@ header:
   overlay_filter: "0"
   overlay_image: /assets/images/header.png
 # excerpt: "DynastyProcess.com is a collaboration between Tan Ho and Joe Sydlowski. Our mission is to deliver free, high-quality resources for DynastyFF analysis."
-intro:
-  - excerpt: "DynastyProcess.com is a collaboration between Tan Ho and Joe Sydlowski. Our mission is to deliver free, high-quality resources for DynastyFF analysis and development."
+#intro:
+  #- excerpt: "DynastyProcess.com is a collaboration between Tan Ho and Joe Sydlowski. Our mission is to deliver free, high-quality resources for DynastyFF analysis and development."
 feature_row:
   - url: /apps
     image_path: https://i.imgur.com/UXBWknw.png
@@ -33,6 +33,8 @@ feature_row:
     btn_label: "Read"
     btn_class: "btn--primary"
 ---
+
+DynastyProcess.com is a collaboration between Tan Ho and Joe Sydlowski. Our mission is to deliver free, high-quality resources for DynastyFF analysis and development. 
 
 {% include feature_row id="intro" type="center" %}
 
