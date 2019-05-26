@@ -34,7 +34,10 @@ feature_row:
     btn_class: "btn--primary"
 ---
 
-DynastyProcess.com is a collaboration between Tan Ho and Joe Sydlowski. Our mission is to deliver free, high-quality resources for DynastyFF analysis and development. 
+DynastyProcess.com is a collaboration between Tan Ho and Joe Sydlowski.
+{: .text-center}
+Our mission is to deliver free, high-quality resources for DynastyFF analysis and development.
+{: .text-center}
 
 {% include feature_row id="intro" type="center" %}
 
