@@ -15,7 +15,7 @@ feature_row:
     image_path: https://i.imgur.com/UXBWknw.png
     alt: "Apps"
     title: "Apps"
-    excerpt: "Web-based apps for easy access to things like our trade calculator!"
+    excerpt: "Calculator? Rookie ADP? Database? We've got an app for that and more!"
     btn_label: "Go to Apps"
     btn_class: "btn--primary"
   - url: /tools
