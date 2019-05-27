@@ -1,5 +1,5 @@
 ---
-title: Arbitrage App
+title: Arbitrage
 permalink: /arbitrage
 classes: wide
 header:
@@ -9,7 +9,7 @@ feature_row:
   - url: https://apps.dynastyprocess.com/arbitrage
     image_path: https://i.imgur.com/nT5271x.png
     Title: "Link"
-    alt: "Arbitrage App"
+    alt: "Arbitrage"
     excerpt: "Our Arbitrage App helps you identify 'bargain' versions of specific players."
     btn_label: "Try it now!"
     btn_class: "btn--primary"
