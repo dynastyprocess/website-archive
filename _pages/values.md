@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: single
+classes: wide
+author_profile: false
 title: Market Values
 permalink: /values
 ---
