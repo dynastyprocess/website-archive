@@ -6,10 +6,6 @@ title: Market Values
 permalink: /values
 ---
 
-# Market Values
-
-### [> Click here to jump to the Google Sheet](https://docs.google.com/spreadsheets/d/19YvN6ac_2VEsdumylgsBd4hi_YTmeBUIi6s0hmSV3RA/)
-
 ## Frequently Asked Questions
 
 #### What are these values?
@@ -60,3 +56,6 @@ First and foremost, we are assuming that FantasyPros Expert Consensus Rankings a
 A more pressing concern is the applicability of this value system to your league. This value chart makes assumptions about how positions are valued relative to each other, how depth players are valued relative to elite studs, and how youth is valued relative to age. This chart printout assumes what FantasyPros assumes: a typical 12 team PPR league starting QB/RB/RB/WR/WR/TE/FLEX/FLEX rostering about 300 players. We could modify the algorithm to change the way depth is valued (changing the coefficient -0.0235 to be smaller or larger to increase/decrease the value of depth), to change the way positions are valued (applying a custom transformation to ECR), or to change the way age is valued (applying a modifier based on player age). Unfortunately, that kind of customizability isn't available in a single Google Sheet - but would be possible in a web app!
 
 There are probably better (or different) ways to calculate long-term player value, possibly using expected value over replacement as suggested by Adam Harstad. This is definitely on my project list!
+
+
+### [> Click here to jump to the Google Sheet](https://docs.google.com/spreadsheets/d/19YvN6ac_2VEsdumylgsBd4hi_YTmeBUIi6s0hmSV3RA/)
