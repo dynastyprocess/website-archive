@@ -30,12 +30,12 @@ This page lists Excel workbooks, Google Sheets, and other resources that might b
 
 **[Rookie Auction Tracker](https://docs.google.com/spreadsheets/d/1TqGKcoJHTQqtC6pBBlKsDd8g24BVBkpsfug6z0QyK10/copy)** - similar to Rookie Draft Tracker but for rookie auctions held on a chat server. Keeps track of budget and players taken, set to view-only and share with league. No timer function is included - not a lot of great ways to do that cleanly, but I can work on it if someone really needs help.
 
-## League Analysis Tools
-**[Potential Points Calculators](/potentialpoints)** - Excel sheets I built to help calculate Potential Points for ESPN and Yahoo leagues. Requires Excel for Windows and PowerQuery.
+<!-- ## League Analysis Tools
+**[Potential Points Calculators](/potentialpoints)** - I'd built Excel sheets help calculate Potential Points for ESPN and Yahoo leagues. Now a Shiny app!
 
-**[Win Probability Tools](/winprobability)** - an Excel sheet I built as a fun experiment to help guess at expected regular-season finishes in MFL leagues. Uses All-Play Win Percentage as an estimate of team strength.
+**[Win Probability Tools](/crystalball)** - an Excel sheet I built as a fun experiment to help guess at expected regular-season finishes in MFL leagues. Uses All-Play Win Percentage as an estimate of team strength. Now a Shiny app! -->
 
-## News
-**[Slack Aggregator](/slack)** - a Slack Channel I made that aggregates RSS feeds for NFL news, draft/film prospects, stats/data analytics, and more.
+<!-- ## News
+**[Slack Aggregator](/slack)** - a Slack Channel I made that aggregates RSS feeds for NFL news, draft/film prospects, stats/data analytics, and more.  -->
 
 More to come!
