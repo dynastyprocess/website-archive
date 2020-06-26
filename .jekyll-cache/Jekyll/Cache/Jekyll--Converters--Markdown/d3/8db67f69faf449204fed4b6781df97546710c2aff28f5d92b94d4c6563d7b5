@@ -1,0 +1,62 @@
+I"	
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="https://i.imgur.com/wEswsql.png" alt="Calculator" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>The DynastyProcess database is designed to aggregate the wide variety of information that dynasty owners should have at their fingertips!</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://apps.dynastyprocess.com/database" class="btn btn--primary">Try it now!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<h2 id="other-access">Other Access:</h2>
+
+<p><a href="https://github.com/tanho63/dynastyprocess/blob/master/files/database.csv">CSV format</a> &gt; can be linked to by any data import tool (make sure you link to the <a href="https://raw.githubusercontent.com/tanho63/dynastyprocess/master/files/database.csv">raw version</a>!)</p>
+
+<p><a href="https://github.com/tanho63/dynastyprocess/blob/master/files/workbooks/database-excel-macro.xlsm">Excel workbook format</a> &gt; has all of the API connections, so you can refresh the data for yourself if you’re feeling impatient!</p>
+
+<h4 id="already-connected">Already Connected</h4>
+<ul>
+  <li>FantasyPros ECR for dynasty and redraft</li>
+  <li>2018 AirYards.com data</li>
+  <li>Spotrac contract data</li>
+  <li>2018 Snap Counts from Pro-Football-Reference</li>
+  <li>Draft athletic data from RelativeAthleticScores.com (shoutout to Kent Lee Platte <a href="https://twitter.com/MathBomb">@MathBomb</a>)</li>
+</ul>
+
+<p>…and because this database can’t always aggregate every last source of data, it also includes playerIDs for MFL/Sleeper/nflGSIS/Rotoworld/ESPN/PFR IDs for easy extensions and additions!</p>
+
+<h4 id="possible-extensions">Possible Extensions</h4>
+<ul>
+  <li>College Production Statistics (Dominator Ratings, Breakout Ages, Market Shares)</li>
+  <li>Career Fantasy Statistics (Totals, per-game averages)</li>
+  <li>Prospect Film Grades (NFL Draft Scout? NFL.com Prospect Grades?)</li>
+</ul>
+
+<p><em>Got any other suggestions? <a href="http://twitter.com/_TanHo">Let me know!</a></em></p>
+:ET

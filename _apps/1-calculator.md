@@ -16,15 +16,16 @@ permalink: /calculator
 ---
 {% include feature_row type="left" %}
 
-This app is by no means a finished product - please give us any feedback you can!
-
 ## Frequently Asked Questions
 
 ### What is the "Depth Value Slider"?
-One major problem with trade calculators is the idea that there is a universal number that describes how players should be valued relative to the others. I'm taking an initial stab at this problem by allowing you to play with the "depth" weighting. If your league values depth more (i.e. is a best ball league, has more starter, roster, or team spots than usual) you would move the slider to the right - and if your league values studs more, you would move the slider to the left. It's preset to the original equation that is used in the market values calculator.
+One major problem with trade calculators is the idea that there is a universal number that describes how players should be valued relative to the others. I'm taking an initial stab at this problem by allowing you to play with the "depth" weighting. If your league values depth more (i.e. is a best ball league, has more starter, roster, or team spots than usual) you would move the slider to the left - and if your league values studs more, you would move the slider to the right. It's preset to what we think might be a sensible default for standard 12 team PPR leagues, but your mileage may vary!
 
 ### What is the "Rookie Optimism Slider"?
-[BLURB]
+
+## FAQ: Values
+
+[Values](/values){: .btn .btn--info}
 
 
 *We've got a few more ideas on getting better at tweaking values, but we'd love to hear your suggestions!*

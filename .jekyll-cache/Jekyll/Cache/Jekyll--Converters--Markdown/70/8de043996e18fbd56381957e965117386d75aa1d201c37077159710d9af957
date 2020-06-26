@@ -1,0 +1,37 @@
+I"Ã
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="https://i.imgur.com/UPpC6aC.png" alt="Rookie ADP App" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>An aggregation of r/dynastyFF rookie drafts from MFL and Sleeper.</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://apps.dynastyprocess.com/rookie-adp" class="btn btn--primary">Check it out!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+:ET

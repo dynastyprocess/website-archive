@@ -1,0 +1,45 @@
+I"�<h3 id="quick-links--market-values-trade-calculator">Quick Links &gt; <a href="http://dynastyprocess.com/downloads/values">Market Values</a>, <a href="http://dynastyprocess.com/downloads/calculator">Trade Calculator</a></h3>
+
+<p>It’s been <strong>49 (!)</strong> days since I last updated the <a href="http://dynastyprocess.com/downloads/values">Market Values</a> Google Sheet, and a lot has happened in those 48 days: personal and otherwise. (I got approached by DynastyLeagueFootball and FFStatistics for writing positions! :heart_eyes:)</p>
+
+<p>I’m making it sound like there are (good?) excuses as to why I haven’t updated the market values since the end of December last year - but none of them are quite accurate. The <em>real</em> reason for the delay was that I was struggling to figure out how to incorporate the 2019 picks into the values table. This class has a rather unprecedentedly bad reputation, especially for this time of year, which really throws a wrench into my usual draft-pick-value methodology. Let’s take a deeper dive into this.</p>
+
+<h2 id="usual-methodology">Usual Methodology</h2>
+
+<p>Dynasty owners are notorious for valuing picks extremely high, despite their typically low conversion/hit-rate (I did <a href="https://www.footballdiehards.com/fantasy-football-columns/html/fantasy-football-dynasty-101-rookie-draft-and-player-development.cfm">a hit-rate study</a> a while back, <a href="http://web.archive.org/web/20171027053122/http://www.rotoworld.com/articles/nfl/71382/446/dynasty-rookie-pick-hit-rates">Jacob Rickrode’s</a> was far more popular, both amounted to the same thing: drafting your actual picks is typically lower EV than you might think). Despite the analytics, we still trade picks at their topline premium. We have supreme confidence in our ability to evaluate and beat the odds. We’re in love with the allure of youth, unknown, and upside.</p>
+
+<p>We have a tendency to look at picks through rose-colored glasses: when you look at the 1.02 draft pick you mentally frame it as “the second best player in the class”, anchoring that bias into your mind. You see and weigh fewer flaws into the valuation. This heightens over the course of the draft cycle up until the league’s rookie draft - where the moment a pick is converted to a player all of that specific player’s flaws finally weigh back into the mental value calculation.</p>
+
+<p>My usual methodology tries to approximate this “top-line” view by aggregating what the CURRENT best in the past few draft classes are ranked in terms of value. For example, the 1.10 pick by my methodology is equal to the average of the value of the current tenth best players in the 2015, 2016, 2017, and 2018 draft classes as ranked right now. <strong>The goal of the method is (and has always been) to determine the absolute maximum a pick should be worth</strong>. I’m always surprised by the number of people who tell me that even this price can be too low - Saquon and 1.01 went for far more than the expectation last year!</p>
+
+<p>## The 2019 Conundrum</p>
+
+<p>2019 presented an interesting challenge to my usual process because of how much negative sentiment there is at the top-end of the prospect list. It was instantly clear to me that in no way would 1.01 be valued in the top 5 overall dynasty picks (thank you, Saquon! :smirk:) as originally planned. Was there <strong>any</strong> validity for these pick values? Only one way to find out: testing! 🤓</p>
+
+<p>Despite being a data nerd, I didn’t take a very scientifically rigorous approach to this. I picked several pairings from the generated pick values and put them up on Reddit, Twitter, and a few league chats, asking for people to describe how close the comparisons were.</p>
+
+<p><img src="/assets/images/pickvaluetest.png" alt="Reddit pick value test" /></p>
+
+<p>I got a <a href="https://www.reddit.com/r/DynastyFF/comments/aizzm1/discussion_dynastydashboardcom_needs_your_help/">sample of responses back</a> - but here were two overriding results:</p>
+<ol>
+  <li>1.04 was worth far less than the guys valued around the pick (Thielen and Michel) - most people said that they’d slot the 1.01 right around that spot at this time.</li>
+  <li>It quickly returns back to being about equal at 1.07 - and from that point on there was the usual wide disparity of dynasty owner opinions.</li>
+</ol>
+
+<p>What to do? In theory, I could manually adjust the ranks so that 1.01-1.05 are slotted in at a certain position…but I’ve never meant for these values to be a display of personal rankings and that would definitely compromise that goal.</p>
+
+<p>I continued tweaking and testing the algorithm, trying to weight the different classes and factors to see if the picks would better fit - but the answer never materialized.</p>
+
+<h2 id="ending-decision-just-publish-it-anyway">Ending decision: just publish it anyway!</h2>
+
+<p>So now that I’m nearing fifty days without an update, I’ve decided on my final algorithm - straight-line averaging across the 2015-16-17-18 classes. Once actual 2019 rankings come out, I’ll weight them into the value of the picks (and by more than the usual gradual easing-in).</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>What about the pesky early firsts that everyone agrees is misplaced?
+</code></pre></div></div>
+
+<p>I’ve defended trade calculators in many an argument, and at the end of the day my answer has always been the same - it’s an approximation of what is considered fair value, but shouldn’t be used as the be-all end-all for trade decisions. I also post things openly so that <strong>you can tweak them to your liking - if you think 1.01 is worth where 1.05 is worth, feel free to reference 1.05 wherever you would normally have referenced 1.01. It’s a tool that you can adjust however you see fit!</strong></p>
+
+<h2 id="dislike-that-valuation">Dislike that valuation?</h2>
+
+<p><a href="https://github.com/tanho63/dynastyprocess/blob/master/files/values-calculator.xlsx">I’ve added an Excel workbook to my GitHub that you can play with.</a></p>
+:ET

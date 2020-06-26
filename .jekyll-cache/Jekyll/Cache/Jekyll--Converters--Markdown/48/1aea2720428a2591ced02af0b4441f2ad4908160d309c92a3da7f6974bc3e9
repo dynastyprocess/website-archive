@@ -1,0 +1,115 @@
+I"�<p class="text-center">DynastyProcess.com is a collaboration between Tan Ho and Joe Sydlowski.</p>
+<p class="text-center">Our mission is to deliver free, high-quality resources for DynastyFF analysis and development.</p>
+
+<div class="feature__wrapper">
+
+  
+
+</div>
+
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="https://i.imgur.com/UXBWknw.png" alt="Apps" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Apps</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Calculator? Rookie ADP? Database? We’ve got an app for that and more!</p>
+
+            </div>
+          
+
+          
+            <p><a href="/apps" class="btn btn--primary">Go to Apps</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="https://i.imgur.com/XRghC10.png" alt="Tools" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Tools</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Excel workbooks, Google Sheets, and other resources.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/tools" class="btn btn--primary">Download</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+    
+
+    <div class="feature__item">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="https://i.imgur.com/tDP4DJe.png" alt="Writing" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+            <h2 class="archive__item-title">Writing</h2>
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Thoughts on DynastyFF, data, strategy, and more.</p>
+
+            </div>
+          
+
+          
+            <p><a href="/writing" class="btn btn--primary">Read</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<h2 id="contribute-to-dynastyprocess">Contribute to DynastyProcess!</h2>
+
+<p>DynastyProcess is dedicated to collaborative and open-source work - the import tools, Excel sheets, databases, and web-apps will always be free. If you’ve got ideas, feedback, bugs, or any other extensions on the work found here, please reach out to us <a href="https://twitter.com/_TanHo">directly on Twitter</a> and we’d love to have a conversation about it!</p>
+
+<p>This is a labour of love that we’re happy to continue for as long as we can. That said, if you’d like to support the costs of running this project, we’ve got 
+accounts set up at <a href="http://patreon.com/tanho">Patreon</a> (for recurring contributions) and <a href="http://paypal.me/tan63">PayPal</a> (for one-time contributions). We’re happy to take support on a pay-what-you-can basis. A bonus for supporting us: we’d be happy to direct more attention to any projects or requests you’d like us to look into!</p>
+:ET

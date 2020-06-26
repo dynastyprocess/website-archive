@@ -22,7 +22,7 @@ name                     : "DynastyProcess.com"
 description              : "Delivering free, high-quality resources for DynastyFF development and analysis"
 url                      : "https://dynastyprocess.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "tanho63/dynastyprocess.com-v2"
+repository               : "dynastyprocess/website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Tan Ho"
   avatar           : "/assets/images/profile.png"
-  bio              : "DynastyFF | excel nerd | rowing fanatic"
+  bio              : "Data @ Caivan | Dev @ DynastyProcess, DLF | #rshiny apps | excel nerd | rowing fanatic"
   location         :
   email            :
   links:
@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/tanho63"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -140,12 +140,12 @@ footer:
     - label: "@JoeSydlowskiFF"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/JoeSydlowskiFF"
-    - label: "Datasets and Workbooks"
+    - label: "Data"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/tanho63/dynastyprocess"
-    - label: "Apps"
+      url: "https://github.com/dynastyprocess/data"
+    - label: "Other Repositories"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/joesydlowski/dynastyprocessapps"
+      url: "https://github.com/dynastyprocess"
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:

@@ -1,0 +1,50 @@
+I"�
+<div class="feature__wrapper">
+
+  
+
+    
+
+    <div class="feature__item--left">
+      <div class="archive__item">
+        
+          <div class="archive__item-teaser">
+            <img src="https://i.imgur.com/hapFEga.png" alt="Calculator" />
+            
+          </div>
+        
+
+        <div class="archive__item-body">
+          
+
+          
+            <div class="archive__item-excerpt">
+              <p>Our Trade Calculator features a startup mode, suggestions, and customizable values based on your preferences for depth and rookies.</p>
+
+            </div>
+          
+
+          
+            <p><a href="https://apps.dynastyprocess.com/calculator" class="btn btn--primary">Try it now!</a></p>
+          
+        </div>
+      </div>
+    </div>
+  
+
+</div>
+
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+
+<h3 id="what-is-the-depth-value-slider">What is the “Depth Value Slider”?</h3>
+<p>One major problem with trade calculators is the idea that there is a universal number that describes how players should be valued relative to the others. I’m taking an initial stab at this problem by allowing you to play with the “depth” weighting. If your league values depth more (i.e. is a best ball league, has more starter, roster, or team spots than usual) you would move the slider to the left - and if your league values studs more, you would move the slider to the right. It’s preset to what we think might be a sensible default for standard 12 team PPR leagues, but your mileage may vary!</p>
+
+<h3 id="what-is-the-rookie-optimism-slider">What is the “Rookie Optimism Slider”?</h3>
+
+<p><em>We’ve got a few more ideas on getting better at tweaking values, but we’d love to hear your suggestions!</em></p>
+
+<h2 id="google-sheets-calculator">Google Sheets Calculator</h2>
+<p>The now-deprecated Google Sheets calculator was the original “trade calculator” developed by Tan (as part of the DynastyDashboard project). It’s still set up to receive automatic value updates (when we push a new values CSV to the GitHub, the Google Sheet pulls it in.)</p>
+
+<p><a href="https://docs.google.com/spreadsheets/d/1mmv1h5kDseejWSHx7BVlwY91gReONfbakeqYisAmLyY/copy" class="btn btn--info">Google Sheets Calculator</a></p>
+:ET
