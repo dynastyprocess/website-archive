@@ -16,6 +16,20 @@ permalink: /calculator
 ---
 {% include feature_row type="left" %}
 
+as a general commentary on trade calcs: 99% of calculators start with (consensus or site or personal) rankings (rarely ADP) and pass it through an ~exponential decay type formula to generate a number. 
+--
+Questions to consider:
+1) Do you trust their ranks? (Matt Kelley can have questionable ones, DTC is known to go in and manipulate theirs for market-corrections) 
+2) How fresh are the ranks and values?
+3) Do you trust that their algorithm is descriptive of your league?
+4) Do you want a calculator to tell you what the market thinks or do you want it to tell you someone’s opinion as to whether you’re winning or losing?
+-- 
+I try to answer all of these questions openly in DynastyProcess's calculator: 
+- Ranks are from FantasyPros, DP doesn't touch them
+- Update date is posted right in the app
+- I give you the ability to adjust the algorithm on a slider - how important is depth? how important are rookies? how important are future picks?
+- FantasyPros is a good measure of consensus, so the calculator is primarily geared for describing market
+
 ## Frequently Asked Questions
 
 ### What is the "Depth Value Slider"?
@@ -26,8 +40,6 @@ One major problem with trade calculators is the idea that there is a universal n
 ## FAQ: Values
 
 [Values](/values){: .btn .btn--info}
-
-
 *We've got a few more ideas on getting better at tweaking values, but we'd love to hear your suggestions!*
 
 ## Google Sheets Calculator
